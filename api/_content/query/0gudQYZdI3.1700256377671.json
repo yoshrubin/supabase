@@ -1,0 +1,1 @@
+[{"_path":"/get-started","title":"Get Started","description":"@nuxtjs/supabase is a Nuxt module for first class integration with Supabase."},{"_path":"/usage/composables/usesupabaseclient","title":"useSupabaseClient","description":"Make requests to the Supabase API with the useSupabaseClient composable"}]
