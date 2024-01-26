@@ -1,1 +1,0 @@
-import{d as n,G as r,b as s,c,aA as a}from"./entry.h6VN_p4H.js";const p=["src"],d=n({__name:"VoltaBoard",props:{token:{type:String,required:!0}},setup(e){const t=e,o=r(()=>`https://volta.net/embed/${t.token}`);return(i,l)=>(s(),c("iframe",{style:{width:"100%","min-height":"calc(100vh / 1.5)"},src:a(o)},null,8,p))}});export{d as default};
