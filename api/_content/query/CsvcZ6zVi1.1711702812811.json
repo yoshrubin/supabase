@@ -1,0 +1,1 @@
+[{"_path":"/usage/services/serversupabaseclient","title":"serverSupabaseClient","description":"Make requests to the Supabase API on server side with the serverSupabaseClient service"},{"_path":"/usage/services/serversupabasesession","title":"serverSupabaseSession","description":"Get your Supabase user's session from serverside with the serverSupabaseUser service"}]
